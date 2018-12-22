@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="my_data_list">
+        <item>
+            data item1
+        </item>
+        <item>
+            data item2
+        </item>
+        <item>
+            data item3
+        </item>
+        <item>
+            data item4
+        </item>
+        <item>
+            data item5
+        </item>
+        <item>
+            data item6
+        </item>
+        <item>
+            data item7
+        </item>
+        <item>
+            data item1
+        </item>
+        <item>
+            data item2
+        </item>
+        <item>
+            data item3
+        </item>
+        <item>
+            data item4
+        </item>
+        <item>
+            data item5
+        </item>
+        <item>
+            data item6
+        </item>
+        <item>
+            data item7
+        </item>
+        <item>
+            data item1
+        </item>
+        <item>
+            data item2
+        </item>
+        <item>
+            data item3
+        </item>
+        <item>
+            data item4
+        </item>
+        <item>
+            data item5
+        </item>
+        <item>
+            data item6
+        </item>
+        <item>
+            data item7
+        </item>
+
+    </string-array>
+
+
+</resources>

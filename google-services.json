@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "418609358630",
+    "firebase_url": "https://elite-monolith-225020.firebaseio.com",
+    "project_id": "elite-monolith-225020",
+    "storage_bucket": "elite-monolith-225020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418609358630:android:2f39c78bb5a770e3",
+        "android_client_info": {
+          "package_name": "com.johnabbottcollege.androidteamproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418609358630-capl650rbaq3ffqivj59umrmk02k9sav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnabbottcollege.androidteamproject",
+            "certificate_hash": "96183cb2a050e5ae4c1e739a3272291763267676"
+          }
+        },
+        {
+          "client_id": "418609358630-ufnkr79o8d3kmlklhlde0l4khel9mp2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCknFehfe1UQibXNtg4zzAw--Ub6DpltbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418609358630-ufnkr79o8d3kmlklhlde0l4khel9mp2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

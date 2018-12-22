@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "912586258881",
+    "firebase_url": "https://fir-test-55dc6.firebaseio.com",
+    "project_id": "fir-test-55dc6",
+    "storage_bucket": "fir-test-55dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912586258881:android:d48fe9f848a2c56e",
+        "android_client_info": {
+          "package_name": "com.example.mobileapps.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912586258881-pd77983nm8qsv4u7f6d13oeom0qght90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobileapps.firebaselogin",
+            "certificate_hash": "5656cd697566b364bcbaf121e12139122e4dec0e"
+          }
+        },
+        {
+          "client_id": "912586258881-ectl0802ih1cbve7lcs4t0vrgfn2pdeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp3FGeASiTdSisLCs8yXhwi9nApz2PC-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912586258881-ectl0802ih1cbve7lcs4t0vrgfn2pdeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912586258881:android:2f39c78bb5a770e3",
+        "android_client_info": {
+          "package_name": "com.johnabbottcollege.androidteamproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912586258881-gq213vs8hgafo6c8a1c3a2ifspcv6v60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnabbottcollege.androidteamproject",
+            "certificate_hash": "1eac9602bf3bcc9adf20c35df3e8c467970c9ae3"
+          }
+        },
+        {
+          "client_id": "912586258881-ectl0802ih1cbve7lcs4t0vrgfn2pdeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp3FGeASiTdSisLCs8yXhwi9nApz2PC-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912586258881-ectl0802ih1cbve7lcs4t0vrgfn2pdeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
